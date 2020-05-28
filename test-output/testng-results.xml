@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="131" started-at="2020-05-06T20:23:22 IST" finished-at="2020-05-06T20:23:22 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="131" started-at="2020-05-06T20:23:22 IST" finished-at="2020-05-06T20:23:22 IST">
+      <class name="qaquickacademy.Mavenjava.RestApiTest">
+        <test-method status="PASS" signature="AndroidNativeApp()[pri:0, instance:qaquickacademy.Mavenjava.RestApiTest@1a1d6a08]" name="AndroidNativeApp" duration-ms="18" started-at="2020-05-06T20:23:22 IST" finished-at="2020-05-06T20:23:22 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AndroidNativeApp -->
+        <test-method status="PASS" signature="IosApp()[pri:0, instance:qaquickacademy.Mavenjava.RestApiTest@1a1d6a08]" name="IosApp" duration-ms="2" started-at="2020-05-06T20:23:22 IST" finished-at="2020-05-06T20:23:22 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- IosApp -->
+      </class> <!-- qaquickacademy.Mavenjava.RestApiTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
